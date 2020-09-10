@@ -44,7 +44,7 @@ Session.vim
 .webpack
 .serverless
 
-# env
+# env just to make sure that the secret key doesn't get uploaded. . .
 env.yml
 .env
 
